@@ -1,0 +1,39 @@
+{
+  "title": "Asociacion_animales",
+  "date": "13/11/23",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "asociacion_animales123.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 13,
+  "totalSize": 224761,
+  "files": [
+    "aguila-asociacion_animales123.jpg",
+    "aguila.jpg",
+    "asociacion_animales.jclic",
+    "asociacion_animales.jclic.js",
+    "asociacion_animales123.jclic",
+    "asociacion_animales123.jclic.js",
+    "caballo-resized-asociacion_animales123.jpg",
+    "caballo-resized.jpg",
+    "cerdo-asociacion_animales123.jpg",
+    "cerdo.jpg",
+    "favicon.ico",
+    "gato-resized-asociacion_animales123.jpg",
+    "gato-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
